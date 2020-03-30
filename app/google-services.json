@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912114991697",
+    "firebase_url": "https://seyyarholdingmobile.firebaseio.com",
+    "project_id": "seyyarholdingmobile",
+    "storage_bucket": "seyyarholdingmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912114991697:android:076a22f506390d49d72e70",
+        "android_client_info": {
+          "package_name": "com.example.shm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912114991697-eusu1o1i68nipmm6bbtfbf6u4oshbc3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkB4O-_-TT7UgecE3sDpkNAJgtySQ37uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912114991697-eusu1o1i68nipmm6bbtfbf6u4oshbc3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

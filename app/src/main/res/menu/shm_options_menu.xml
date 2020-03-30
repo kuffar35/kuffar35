@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/upload" android:title="Paylaşım Sayfası"></item>
+    <item android:id="@+id/personal" android:title="Kişisel Bilgiler"></item>
+    <item android:id="@+id/messages" android:title="Mesajlaşma"></item>
+    <item android:id="@+id/logout" android:title="ÇIKIŞ"></item>
+</menu>
